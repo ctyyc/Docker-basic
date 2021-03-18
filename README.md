@@ -1,6 +1,5 @@
 # Docker-basic
 ## Docker-basic Command
-<hr/>
 
     docker run <Image Name/ Container Id>
 : 실행 (create + start)
